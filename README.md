@@ -30,5 +30,5 @@ The novel, **l’Étranger** (1942) by Albert Camus,
 
 ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_6.png) ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_7.png)
 
-![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_8.png) ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_8.png)
+![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_8.png) ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_9.png)
 
