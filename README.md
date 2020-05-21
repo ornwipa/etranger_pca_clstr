@@ -22,11 +22,11 @@ As data did not meet the assumption for k-means clustering (i.e. spherical shape
 
 ## Results
 
-The cluster label corresponding to each text were saved in this [table](https://github.com/ornwipa/etranger_pca_clstr/blob/master/unsup_clstr.csv).
+The cluster labels corresponding to each text were saved in this [table](https://github.com/ornwipa/etranger_pca_clstr/blob/master/unsup_clstr.csv).
 
-### Selecting the Numbers of Clusters
+The text may be grouped upto 4 clusters, representing different "themes". The below figures show different clusters with different colors. Only the three most important features were plots. The choice of the number of clusters could be either 2, 3, or 4.
 
-The text may be grouped upto 4 clusters. Explain the representation of Feature 1, 2, 3 here.
+One cluster with three primary features very close to one another (yellow, purple, red for the 2, 3, 4 clusters, respectively) include the paragraphs that constantly appear through out the book. However, the points or clusters that spreaded out more, i.e. higher variability within their own clusters, were mostly from part 2 of the book.
 
 ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_4.png) ![alt text](https://github.com/ornwipa/etranger_pca_clstr/blob/master/results/Figure_5.png)
 
